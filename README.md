@@ -1,4 +1,4 @@
-# Create a new app 
+# App Ecco
   
 - https://developer.dynatrace.com/quickstart/first-app-in-5-minutes/ 
 - copie directory in the new app
@@ -18,7 +18,7 @@
 <img width="880" height="560" alt="app-ecco" src="https://github.com/user-attachments/assets/28f1b3e9-197e-472c-a897-1fdddcb935ac" />
 
 
-# Getting Started with your Dynatrace App
+# More info
 
 This project was bootstrapped with Dynatrace App Toolkit.
 
