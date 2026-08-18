@@ -1,3 +1,23 @@
+# Create a new app 
+  
+- https://developer.dynatrace.com/quickstart/first-app-in-5-minutes/ 
+- copie directory in the new app
+
+- upadate package from package.json  
+      
+      npm install 
+
+- dev
+
+      npx dt-app dev --environment-url  https://<tenantid>.apps.dynatrace.com/
+ 
+- deploy
+
+      npx dt-app deploy --environment-url  https://<tenantid>.apps.dynatrace.com
+
+<img width="880" height="560" alt="app-ecco" src="https://github.com/user-attachments/assets/28f1b3e9-197e-472c-a897-1fdddcb935ac" />
+
+
 # Getting Started with your Dynatrace App
 
 This project was bootstrapped with Dynatrace App Toolkit.
