@@ -15,8 +15,7 @@
 
       npx dt-app deploy --environment-url  https://<tenantid>.apps.dynatrace.com
 
-<img width="880" height="560" alt="app-ecco" src="https://github.com/user-attachments/assets/28f1b3e9-197e-472c-a897-1fdddcb935ac" />
-
+<img width="880" height="560" alt="app-ecco" src="https://github.com/user-attachments/assets/b271d4e6-0024-4ec7-b958-a0f20cbbba93" />
 
 # More info
 
